@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (max-width: 750px){
+	.logo{
+		float: none;
+		width: 100%;
+	}
+	.nav{
+		width: 100%;
+		padding-top: 40px;
+	}
+	
+	.nav ul li{
+		padding-bottom: 30px;
+	}
+	.header-text{
+		width: 100%;
+	}
+	.services-col{
+		width: 100%;
+	}
+	.team-col{
+		width: 100%;
+		padding-top: 75px;
+	}
+	.skill-col{
+		width: 100%;
+		padding-top: 75px;
+	}
+	.portfolio-nav li{
+		width: 22%;
+		margin: 2px;
+		padding: 12px 0px;
+		margin-top: 30px;
+		margin-bottom: 45px;
+	}
+	.portfolio-col, .portfolio-col2{
+		width: 100%;
+	}
+	.portfolio-wrapper img{
+		width: 200px;
+		padding-bottom: 0px;
+	}
+	.port-col3{
+		padding-bottom: 60px;
+	}
+	
+	.about-wrapper{
+		width: 100%;
+		margin: auto;
+	}
+	.about-col, .about-col2{
+		width: 100%;
+		padding: 0px;
+	}
+	.about-img{
+		padding-right: 15px;
+	}
+	.mobile-col{
+	width: 360px;
+	height: 160px;
+	margin: auto;
+	padding: 50px 0px;
+	}
+	.name{
+		width: 58.50%;
+		margin-right: 0px;
+	}
+	.email{
+		width: 58.50%;
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+	.text{
+		margin-top: 10px;
+	}
+	.contact-btn{
+		width: 200px;
+		margin-top: 50px;
+	}
+	.social ul li a{
+		font-size: 18px;
+	}
+	.dribble a{
+		display: none;
+	}
+}
